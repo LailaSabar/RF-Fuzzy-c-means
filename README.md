@@ -1,37 +1,34 @@
 # Fuzzy C-means Algorithm
-<div>
-	<img align=center src="Images/sepal-plot.png" width="350px" height = 350px/>
-	<img align=center src="Images/petal-plot.png" width="350px" height = 350px/>
-</div>
-<br>
-<br>
-
-#### Type: Clustering algorithm 
-#### Dataset used: Iris dataset
 
 ## Requirements:
 
-- google colab or jupyter notebook
+- google colab ou jupyter notebook
 
 **packages**:
+
 <br><br>
 - Pandas - https://pandas.pydata.org/docs/getting_started/install.html <br>
 - Numpy - https://numpy.org/install/ <br>
 - Matplotlib - https://matplotlib.org/stable/users/installing.html <br>
 - sklearn - https://scikit-learn.org/stable/install.html <br>
+- scipy - https://scipy.org/
+- math - https://docs.python.org/3/library/math.html
+- operator - https://docs.python.org/3/library/operator.html
+- random - https://docs.python.org/3/library/random.html
+
 	
 
-## Steps involved:
+## Etapes :
 
-1. Open the “fuzzy_c_means_algorithm_implementation.ipynb” file.You can either open it on google colab or through jupyter notebook. 
-2. If you are using Jupyter notebook then install the required packages mentioned above.
-3. After opening the file in google colab or jupyter notebook run all the cells and see the output.
-4. Observe the plots to understand the results of the algorithm.
+1. Ouvrez le fichier "Fuzzy-c-means.ipynb" Vous pouvez l'ouvrir soit sur google colab, soit avec jupyter notebook. 
+2. Si vous utilisez Jupyter notebook, installez les paquets requis mentionnés ci-dessus.
+3. Après avoir ouvert le fichier dans google colab ou jupyter notebook, exécutez toutes les cellules et afficher la sortie.
+4. Observez les graphiques pour comprendre les résultats de l'algorithme.
+
 
 ---
 
-## References:
+## Références:
 
-https://www.kaggle.com/prateekk94/fuzzy-c-means-clustering-on-iris-dataset <br>
-https://youtu.be/FA-hJBu5Bkc <br>
-http://www.cleartheconcepts.com/fuzzy-c-means/ <br>
+https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html <br>
+https://matteucci.faculty.polimi.it/Clustering/tutorial_html/cmeans.html <br>
