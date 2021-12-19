@@ -6,7 +6,6 @@
 
 **packages**:
 
-<br><br>
 - Pandas - https://pandas.pydata.org/docs/getting_started/install.html <br>
 - Numpy - https://numpy.org/install/ <br>
 - Matplotlib - https://matplotlib.org/stable/users/installing.html <br>
