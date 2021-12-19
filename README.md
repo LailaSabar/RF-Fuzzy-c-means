@@ -16,8 +16,6 @@
 - operator - https://docs.python.org/3/library/operator.html
 - random - https://docs.python.org/3/library/random.html
 
-	
-
 ## Etapes :
 
 1. Ouvrez le fichier "Fuzzy-c-means.ipynb" Vous pouvez l'ouvrir soit sur google colab, soit avec jupyter notebook. 
